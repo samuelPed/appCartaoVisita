@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Samuel Pedro/AndroidStudioProjects/CartaodeVisitas/app/src/main/res/drawable/ic_add_24dp.xml" value="0.240625" />
+        <entry key="..\:/Users/Samuel Pedro/AndroidStudioProjects/CartaodeVisitas/app/src/main/res/layout/activity_add_cartaode_visita.xml" value="0.33" />
         <entry key="..\:/Users/Samuel Pedro/AndroidStudioProjects/CartaodeVisitas/app/src/main/res/layout/activity_main.xml" value="0.1897644927536232" />
         <entry key="..\:/Users/Samuel Pedro/AndroidStudioProjects/CartaodeVisitas/app/src/main/res/layout/item_card.xml" value="0.25" />
       </map>

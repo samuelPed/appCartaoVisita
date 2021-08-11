@@ -2,4 +2,12 @@
     <string name="app_name">Cartao de Visitas</string>
     <string name="cartao_de_visita">Cartão de Visita</string>
     <string name="descricao_adicionar_cartao_de_visita">Adicionar cartão de visita</string>
+    <string name="novo_cartao">Novo Cartão</string>
+    <string name="labelNome">Nome:</string>
+    <string name="labelTelefone">Telefone:</string>
+    <string name="labelEmail">E-mail:</string>
+    <string name="labelEmpresa">Empresa:</string>
+    <string name="labelCor">Cor:</string>
+    <string name="labelConfirmar">Confirmar</string>
+    <string name="labelCancelar">Cancelar</string>
 </resources>
