@@ -10,4 +10,6 @@
     <string name="labelCor">Cor:</string>
     <string name="labelConfirmar">Confirmar</string>
     <string name="labelCancelar">Cancelar</string>
+    <string name="labelSucesso">Sucesso ao criar o cartão!</string>
+    <string name="labelShare">Compartilhar!</string>
 </resources>
